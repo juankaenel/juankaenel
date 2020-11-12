@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola 👋, soy Juan
+#### Analista de sistemas - Desarrollador Web
+Tengo 23 años, soy Analista de Sistemas y estudiante de Ingeniería en Sistemas cursando el 5to año de la misma. Amo los deportes, la tecnología, y la programación. No hay un día que me pase sin aprender cosas nuevas, soy una persona muy autodidáctica y todista (me gusta saber de todo).
 
-<!--
-**juankaenel/juankaenel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente tengo una pequeña empresa donde brindamos soluciones tecnológicas a las empresas, organizaciones, negocios, o personas.
 
-Here are some ideas to get you started:
+Habilidades: HTML / CSS / JS / VUE.JS / NODE / PYTHON / DJANGO 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/juankaenel)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/juankaenel&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/juankaenel)  
