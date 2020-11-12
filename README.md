@@ -1,6 +1,5 @@
 ### Hola 👋, me llamo Juan
 #### Analista de Sistemas - Desarrollador Web
-![Analista de Sistemas - Desarrollador Web]
 
 Tengo 23 años, soy Analista de Sistemas y estudiante de Ingeniería en Sistemas cursando el 5to año de la misma. Amo los deportes, la tecnología, y la programación. No hay un día que me pase sin aprender cosas nuevas, soy una persona muy autodidáctica y todista (me gusta saber de todo).
 
