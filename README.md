@@ -8,7 +8,7 @@ Actualmente tengo una pequeña empresa donde brindamos soluciones tecnológicas 
 Habilidades: HTML / CSS / JS / VUE.JS / NODE / PYTHON / DJANGO 
 
 - 🔭 Estoy trabajando en Devkoders -> www.devkoders.com 
-- 🌱 Estoy aprendiendo VUE.JS / DJANGO / NODE.JS 
+- 🌱 Estoy aprendiendo VUE.JS / DJANGO / NODE.JS / Wordpress
 - 📫 Cómo contactarme: Kaenel10@gmail.com 
 
 
