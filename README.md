@@ -1,9 +1,10 @@
 ### Hola 👋, me llamo Juan
-#### Analista de Sistemas - Desarrollador Web
 
-Tengo 23 años, soy Analista de Sistemas y estudiante de Ingeniería en Sistemas cursando el 5to año de la misma. Amo los deportes, la tecnología, y la programación. No hay un día que me pase sin aprender cosas nuevas, soy una persona muy autodidáctica y todista (me gusta saber de todo).
+Tengo 24 años, soy Analista de Sistemas y estudiante de Ingeniería en Sistemas cursando el 5to año de la misma.
 
-Actualmente tengo una pequeña empresa donde brindamos soluciones tecnológicas a las empresas, organizaciones, negocios, o personas.
+Desde muy chico me metí en el mundo de la tecnología y poco a poco fuí orientandome hacia la Seguridad Informática y el Desarrollo Web que son mis dos pasiones.
+
+Me encanta compartir mis conocimientos y poder motivar a las personas a mejorar cada día. 
 
 Habilidades: HTML / CSS / JS / VUE.JS / NODE / PYTHON / DJANGO 
 
