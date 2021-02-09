@@ -8,9 +8,8 @@ Me encanta compartir mis conocimientos y poder motivar a las personas a mejorar 
 
 Habilidades: HTML / CSS / JS / VUE.JS / NODE / PYTHON / DJANGO 
 
-- 🔭 Estoy trabajando en Devkoders -> www.devkoders.com 
+- 🔭 Estoy trabajando en -> www.devkoders.com, www.udemy.com/user/juan-kaenel/
 - 🌱 Estoy aprendiendo VUE.JS / DJANGO / NODE.JS / WORDPRESS
-- 📫 Cómo contactarme: Kaenel10@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/juankaenel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juan-kaenel-2a1981176/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/juankaenel/)  
